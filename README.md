@@ -19,7 +19,7 @@ Product Deletion:
 
 Users should confirm deletion, and the product will be removed from the database.
 Design Flexibility:
-You can:
+You can:S
 Use any design framework (Bootstrap, Tailwind CSS, custom CSS).
 Play with different layouts like cards, tables, or grids.
 Customize buttons, headers, and add tooltips or icons.
