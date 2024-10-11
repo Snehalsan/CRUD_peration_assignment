@@ -1,4 +1,4 @@
-# CRUD_peration_assignment
+# CRUD_Operation_assignment
 Sample Design Overview:
 
 Your provided layout uses basic Bootstrap elements like buttons and forms. It’s simple and functional, focusing more on working features than looks.
